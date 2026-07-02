@@ -6,7 +6,7 @@
 ---
 
 ## 🖼️ لوحة المؤشرات التفاعلية (Dashboard Preview)
-![لوحة المؤشرات](dashboard.png)
+![لوحة المؤشرات](dashboard.jng)
 
 ---
 
